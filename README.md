@@ -22,6 +22,10 @@ I extended this pruning to work even at the probabilistic "chance" steps, using 
 **3.Game rules & state tracking:** The game engine tracks each agent's position, score, remaining energy, and elimination status, and enforces rules like blocked terrain, turn order, and game-ending conditions (last agent standing, or highest score when the round limit is reached).
 
 
+
+https://github.com/user-attachments/assets/dc0b0404-98fd-418e-9ec4-59c5f7db9627
+
+
 **4.Visualization:** I built an interactive GUI (using DearPyGui) that displays the live grid, agent positions, 
 and each agent's current score/energy/status, updating in real time as the game progresses turn by turn.
 
